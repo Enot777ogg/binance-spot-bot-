@@ -1,0 +1,5 @@
+BINANCE_API_KEY=your_testnet_api_key
+BINANCE_API_SECRET=your_testnet_api_secret
+USE_TESTNET=true
+DEFAULT_SYMBOL=BTC/USDT
+TIMEFRAME=1h
